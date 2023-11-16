@@ -1,0 +1,7 @@
+C:\Users\TheNo\source\repos\ParallelProgram2\bin\Debug\ParallelProgram2.exe.config
+C:\Users\TheNo\source\repos\ParallelProgram2\bin\Debug\ParallelProgram2.exe
+C:\Users\TheNo\source\repos\ParallelProgram2\bin\Debug\ParallelProgram2.pdb
+C:\Users\TheNo\source\repos\ParallelProgram2\obj\Debug\ParallelProgram2.csproj.AssemblyReference.cache
+C:\Users\TheNo\source\repos\ParallelProgram2\obj\Debug\ParallelProgram2.csproj.CoreCompileInputs.cache
+C:\Users\TheNo\source\repos\ParallelProgram2\obj\Debug\ParallelProgram2.exe
+C:\Users\TheNo\source\repos\ParallelProgram2\obj\Debug\ParallelProgram2.pdb
